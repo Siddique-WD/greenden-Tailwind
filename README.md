@@ -1,7 +1,6 @@
 
 Website Project using HTML and TailwindCSS
 
-https://siddique-wd.github.io/greenden-Tailwind/
 
 About the Project
 This project is a fully responsive website built using HTML5 and TailwindCSS. The aim of this project is to demonstrate how to use utility-first CSS framework for building modern, mobile-first responsive web applications. The website also makes use of various images to enhance the visual appeal.
